@@ -1,7 +1,7 @@
 fx_version 'bodacious'
 game 'gta5'
 
-author 'smallp13'
+author 'seriously'
 description 'Drift Score'
 version '0.1'
 
